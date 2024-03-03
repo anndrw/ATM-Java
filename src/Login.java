@@ -37,7 +37,7 @@ public class Login implements ActionListener {
         // Sectiune de setare a pozitiei si dimensiunilor obiectelor
         idLabel.setBounds(125, 100, 75, 25); // setam pozitia si dimensiunile obiectului idLabel
         parolaLabel.setBounds(125, 150, 75, 25); // setam pozitia si dimensiunile obiectului parolaLabel
-        mesaj.setBounds(125, 250, 250, 35); // setam pozitia si dimensiunile obiectului mesaj
+        mesaj.setBounds(100, 280, 250, 35); // setam pozitia si dimensiunile obiectului mesaj
         mesaj.setFont(new java.awt.Font("Arial", 0, 20)); // setam fontul obiectului mesaj
         id.setBounds(200, 100, 200, 25); // setam pozitia si dimensiunile obiectului id
         parola.setBounds(200, 150, 200, 25); // setam pozitia si dimensiunile obiectului parola
