@@ -6,7 +6,7 @@ Contine:
 - Operatii bancare
   > Retrageri & depuneri
 - Posibilitatea de a face un imprumut
-- Bonusuri financiare obtinute in urma depunerilor
-- Verificari de retrageri
-- Verificari pentru imprumuturi
+- Bonusuri financiare obtinute in urma depunerilor substantiale
+- Verificari in vederea retragerilor
+- Verificari in vederea imprumuturi
 - Praguri limita
