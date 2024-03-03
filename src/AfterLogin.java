@@ -30,7 +30,7 @@ public class AfterLogin implements ActionListener {
         mesaj.setFont(new java.awt.Font("Arial", Font.PLAIN, 12));
         mesaj.setText("Bine ai venit, " + userID + "!");
 
-        balantaLabel.setBounds(270, 100, 200, 25);
+        balantaLabel.setBounds(260, 100, 200, 25);
         depunerebuton.setBounds(200, 150, 100, 25);
         depunerebuton.addActionListener(this);
         retragerebuton.setBounds(320, 150, 100, 25);
