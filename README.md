@@ -12,7 +12,7 @@ Contine:
 - Praguri limita
 
 ## Screenshots 📸
-![image](https://github.com/anndrw/ATM-Java/assets/123022746/7f7b83bd-542a-4174-8f13-139030633557)
+![java_8FjUMUOewr](https://github.com/anndrw/ATM-Java/assets/123022746/45bc074c-a39a-43d5-8a8b-eb48af9db0af)
 
 --------------------------------------------------------------------------
 
@@ -20,6 +20,6 @@ Contine:
 
 --------------------------------------------------------------------------
 
-![image](https://github.com/anndrw/ATM-Java/assets/123022746/7106f4e8-0b0c-4dde-8456-a4cf98b695eb)
+![MxOswVLRRV](https://github.com/anndrw/ATM-Java/assets/123022746/e42f9209-e105-4b13-be97-e034d3c3b5d0)
 
 
