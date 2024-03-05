@@ -1,6 +1,6 @@
 # ATM-Java 🏧
 
-Un simulator de **ATM** realizat in Java.
+## Un simulator de **ATM** realizat in Java.
 Contine:
 - Login & Register
 - Operatii bancare
